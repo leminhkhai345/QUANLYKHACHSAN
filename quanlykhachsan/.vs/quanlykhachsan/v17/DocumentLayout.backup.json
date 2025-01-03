@@ -1,101 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\",
+  "WorkspaceRootPath": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:SYSTEM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:SYSTEM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:booking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:person.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:room.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:interface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:interface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:person.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:SYSTEM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:booking.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:room.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:payment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:booking.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:booking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:payment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{67F41BD0-FFA9-428E-8B92-8BA27178C485}|quanlykhachsan.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -106,51 +106,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 316,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SYSTEM.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.cpp",
               "RelativeDocumentMoniker": "SYSTEM.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.cpp",
-              "RelativeToolTip": "SYSTEM.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.cpp*",
+              "RelativeToolTip": "SYSTEM.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-03T02:44:12.155Z"
+              "WhenOpened": "2025-01-03T02:44:12.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "person.txt",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.txt",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.txt",
               "RelativeDocumentMoniker": "person.txt",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.txt",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.txt",
               "RelativeToolTip": "person.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-03T02:42:43.84Z"
+              "WhenOpened": "2025-01-03T02:42:43.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "booking.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.h",
-              "RelativeDocumentMoniker": "booking.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.h",
-              "RelativeToolTip": "booking.h",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwDwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-03T02:33:26.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "customer.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\customer.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\customer.h",
               "RelativeDocumentMoniker": "customer.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\customer.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\customer.h",
               "RelativeToolTip": "customer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -158,23 +148,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "interface.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\interface.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\interface.h",
               "RelativeDocumentMoniker": "interface.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\interface.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\interface.h",
               "RelativeToolTip": "interface.h",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-03T02:35:10.822Z"
+              "WhenOpened": "2025-01-03T02:35:10.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Function.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Function.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Function.h",
               "RelativeDocumentMoniker": "Function.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Function.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Function.h",
               "RelativeToolTip": "Function.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -182,11 +173,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "customer.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\customer.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\customer.cpp",
               "RelativeDocumentMoniker": "customer.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\customer.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\customer.cpp",
               "RelativeToolTip": "customer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -194,24 +185,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Function.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Function.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Function.cpp",
               "RelativeDocumentMoniker": "Function.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Function.cpp",
-              "RelativeToolTip": "Function.cpp",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAcwIIAAAACAAAAAAAAAA==",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Function.cpp*",
+              "RelativeToolTip": "Function.cpp*",
+              "ViewState": "AgIAAGYDAAAAAAAAAAAswJYDAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-03T02:40:31.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SYSTEM.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.h",
               "RelativeDocumentMoniker": "SYSTEM.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\SYSTEM.h",
               "RelativeToolTip": "SYSTEM.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -219,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Main.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Main.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Main.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -231,11 +222,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "interface.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\interface.cpp",
+              "RelativeDocumentMoniker": "interface.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\interface.cpp",
+              "RelativeToolTip": "interface.cpp",
+              "ViewState": "AgIAABsDAAAAAAAAAAAswCMDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T02:41:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "booking.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.h",
+              "RelativeDocumentMoniker": "booking.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.h",
+              "RelativeToolTip": "booking.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T02:33:26.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "staff.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\staff.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\staff.cpp",
               "RelativeDocumentMoniker": "staff.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\staff.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\staff.cpp",
               "RelativeToolTip": "staff.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -243,11 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "room.txt",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.txt",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.txt",
               "RelativeDocumentMoniker": "room.txt",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.txt",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.txt",
               "RelativeToolTip": "room.txt",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -255,11 +271,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "room.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.cpp",
               "RelativeDocumentMoniker": "room.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.cpp",
               "RelativeToolTip": "room.cpp",
               "ViewState": "AgIAACAAAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -267,11 +283,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "person.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.cpp",
               "RelativeDocumentMoniker": "person.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.cpp",
               "RelativeToolTip": "person.cpp",
               "ViewState": "AgIAAEAAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -279,11 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "payment.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\payment.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\payment.cpp",
               "RelativeDocumentMoniker": "payment.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\payment.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\payment.cpp",
               "RelativeToolTip": "payment.cpp",
               "ViewState": "AgIAACQAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -291,23 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "interface.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\interface.cpp",
-              "RelativeDocumentMoniker": "interface.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\interface.cpp",
-              "RelativeToolTip": "interface.cpp",
-              "ViewState": "AgIAADoDAAAAAAAAAAAIwEYDAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-03T02:41:07.672Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "booking.txt",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.txt",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.txt",
               "RelativeDocumentMoniker": "booking.txt",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.txt",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.txt",
               "RelativeToolTip": "booking.txt",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -317,9 +321,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "booking.cpp",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.cpp",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.cpp",
               "RelativeDocumentMoniker": "booking.cpp",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\booking.cpp",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\booking.cpp",
               "RelativeToolTip": "booking.cpp",
               "ViewState": "AgIAAHUAAAAAAAAAAAAIwH4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -329,9 +333,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "staff.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\staff.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\staff.h",
               "RelativeDocumentMoniker": "staff.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\staff.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\staff.h",
               "RelativeToolTip": "staff.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -341,9 +345,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "room.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.h",
               "RelativeDocumentMoniker": "room.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\room.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\room.h",
               "RelativeToolTip": "room.h",
               "ViewState": "AgIAAA8AAAAAAAAAAAAcwCYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -353,9 +357,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "person.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.h",
               "RelativeDocumentMoniker": "person.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\person.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\person.h",
               "RelativeToolTip": "person.h",
               "ViewState": "AgIAABwAAAAAAAAAAAAIwDQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -365,9 +369,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "payment.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\payment.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\payment.h",
               "RelativeDocumentMoniker": "payment.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\payment.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\payment.h",
               "RelativeToolTip": "payment.h",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwCAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -377,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Node.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Node.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Node.h",
               "RelativeDocumentMoniker": "Node.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\Node.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\Node.h",
               "RelativeToolTip": "Node.h",
               "ViewState": "AgIAACUAAAAAAAAAAAAIwC4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -389,9 +393,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "List.h",
-              "DocumentMoniker": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\List.h",
+              "DocumentMoniker": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\List.h",
               "RelativeDocumentMoniker": "List.h",
-              "ToolTip": "E:\\New folder\\QUANLYKHACHSAN\\quanlykhachsan\\List.h",
+              "ToolTip": "E:\\QLKS\\QUANLYKHACHSAN\\quanlykhachsan\\List.h",
               "RelativeToolTip": "List.h",
               "ViewState": "AgIAADcAAAAAAAAAAAAIwE8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

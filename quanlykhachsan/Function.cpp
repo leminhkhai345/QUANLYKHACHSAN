@@ -103,12 +103,20 @@ void Register(List<person>& pl, int autoId) {
 			if (phone[i] > '9' || phone[i] < '0') {
 				check = false;
 				gotoxy(32, 14);
-				cout << "Phone must be number from 0 to 9!! Enter phone number again";
+				cout << "Valid phone number!! Enpter phone number again";
 				clearRectangle(40, 12, 83, 12);
 				gotoxy(40, 12);
 				getline(cin, phone);
 				break;
 			}
+		}
+		if (phone.length() != 10) {
+			check = false;
+			gotoxy(32, 14);
+			cout << "Valid phone number!! Enpter phone number again";
+			clearRectangle(40, 12, 83, 12);
+			gotoxy(40, 12);
+			getline(cin, phone);
 		}
 		if (check == true) break;
 	}
@@ -911,7 +919,7 @@ void customerOption(List<room>& RL, List<person>& PL, List<booking>& BL, person*
 		else if (point.x >= 975 && point.x <= 1370 && point.y >= 340 && point.y <= 390) {
 			cancellation(BL, p);
 		}
-		else if (point.x >= 745 && point.x <= 1000 && point.y >= 615 && point.y <= 660) break;
+		else if (point.x >= 745 && point.x <= 1000 && point.y >= 475 && point.y <= 525) break;
 		else continue;
 	}
 }
