@@ -1,0 +1,5 @@
+1|Le Minh Khai|0327439645|0|minhkhai|342005
+2|Pham Nhat Thang|0121547854|0|phamnhatthang|123456
+3|Admin|0321552141|1|admin|admin123|5000000
+4|Tran Tien Hung|02546563254|0|hungbb|18082005
+5|Ngo Anh Khoa|0365236547|0|anhkhoango|14042005

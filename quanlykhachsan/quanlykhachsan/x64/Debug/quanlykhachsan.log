@@ -1,0 +1,14 @@
+﻿  booking.cpp
+  customer.cpp
+  Function.cpp
+E:\New folder\QUANLYKHACHSAN\quanlykhachsan\Function.cpp(421,131): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+  interface.cpp
+  Main.cpp
+  payment.cpp
+  person.cpp
+  room.cpp
+  staff.cpp
+  SYSTEM.cpp
+  Generating Code...
+E:\New folder\QUANLYKHACHSAN\quanlykhachsan\Function.cpp(942,1): warning C4715: 'home': not all control paths return a value
+  quanlykhachsan.vcxproj -> E:\New folder\QUANLYKHACHSAN\quanlykhachsan\x64\Debug\quanlykhachsan.exe
